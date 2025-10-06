@@ -1,0 +1,21 @@
+# Node modules
+quizBe/node_modules/
+quizFe/node_modules/
+
+# Environment files
+quizBe/.env
+quizFe/.env
+.env
+
+# Logs
+*.log
+
+# Build outputs
+quizBe/dist/
+quizFe/.next/
+quizFe/out/
+quizFe/build/
+
+# System files
+.DS_Store
+Thumbs.db
